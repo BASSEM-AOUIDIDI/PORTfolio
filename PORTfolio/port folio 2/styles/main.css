@@ -1,0 +1,23 @@
+.myimg{
+
+	width: 350px;
+	height: 200px;
+	margin: 0 auto;
+	display: block;
+	padding-bottom:10px; 
+}
+h2{
+	text-align: center;
+	color: white;
+	background-color: black; 
+}
+
+
+main{
+	margin: 0 auto;
+	width: 80%;
+
+}
+body{
+	background-color: silver;
+}

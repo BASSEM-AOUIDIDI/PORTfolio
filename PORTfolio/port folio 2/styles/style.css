@@ -1,0 +1,163 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+main {
+	width: 80%;
+	margin-top: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid 5px black;
+	background-color: #ecf0f1;
+}
+header {
+	height: 100px;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+    background-color: skyblue;
+}
+header img {
+	padding-top: 5px
+	height:100px;
+	width: 100px;
+}
+.header-nav {
+	float: right;
+	padding-top: 50px;
+	color: red;
+	cursor: pointer;
+
+	   }
+body{
+	background-color: silver;
+}
+ 
+.up_body{
+	text-align: center;
+}
+.up_body img {
+	float: right;
+	height:200px;
+	width: 200px;
+	padding-right: 50px;
+	padding-top: 50px;
+}
+
+.project-container {
+	float: left;
+	padding-top: 50px;
+	padding-left: 50px;
+}
+.project {
+	text-align: center;
+	width: 25%;
+	font-size: 20px;
+}
+.PORTFOLIO  {
+	margin-top:150px;
+	margin-bottom:50px;
+	background-color: #ccb9bc;
+}
+.PORTFOLIO img  {
+	padding-left:25px;
+	padding-top: 50px;
+	padding-right: 25px;
+}
+
+.contact_me{
+	padding-bottom:50px;
+	overflow: auto;
+}
+.messagee{
+	padding-bottom: 50px;
+}
+
+  
+  .web img {
+	padding-left: 20px;
+	padding-top:50px; 
+		height:50px;
+}
+  .about img{
+  width: 22px;
+  height: 22px;
+  float:left; 
+  padding-top: 71px;
+    padding-left: 5px;
+  }
+  .about_round{
+  	display: block;
+  	font-size: 30px;
+	color: grey;
+	padding-top: 25px;
+	background-color: #ccb9bc;
+  }
+  .about {
+  	text-align: left;
+}
+
+  .web {
+  	text-align: center;
+}
+
+	
+li{
+display: inline-block;
+padding-left: 25px;
+padding-right: 25px;
+}
+p{
+	display: inline-block;
+	display: inline-block;
+	text-align: justify;
+	width: 50%;
+    font-size: 21px;
+    padding-left:100px;
+    padding-top: 100px;
+}
+hr{
+	width: 50%;
+	margin-left:300px;
+}
+h2 {
+padding-top: 20px;
+text-align: center;
+}
+h3{
+	font-size: 30px;
+    color: white;
+}
+
+h4{
+	font-size: 30px;
+    color: white;
+    float: left;
+}
+
+
+h5{
+	float: left;
+	padding-top: 68px;
+	padding-left: 8px;
+}
+h6{
+	float: left;
+	padding-top: 70px;
+	padding-left: 110px;
+}
+h1{
+	    margin-bottom: -35px;
+	padding-left: 100px;
+	font-size: 30px;
+	color: white;
+}
+
+
+footer{
+	
+	background-color: skyblue;
+	padding-top: 56px;
+	text-align: center;
+}
